@@ -48,6 +48,28 @@ a.nav-item.nav-link.nav-color:hover {
       padding-top: 75px;
   }
 
+  .sign-up-button button {
+    color: rgb(71, 71, 71);
+    border-color: #c75b14;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+  }
+
+  .sign-up-button button:hover {
+    background-color: #c75b14;
+    border-color: #c75b14;
+  }
+
+  .sign-in-button a {
+    color: rgb(71, 71, 71);
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+  }
+
+  .sign-in-button a:hover {
+    color: #c75b14;
+    text-decoration: none;
+  }
 
   .article-title {
     color: rgb(71, 71, 71);

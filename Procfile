@@ -1,1 +1,1 @@
-web: gunicorn football_opinions.wsgi:application
+web: gunicorn forum_project.wsgi:application

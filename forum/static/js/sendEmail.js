@@ -13,7 +13,3 @@ function sendMail(contactForm) {
         }
     );
 }
-
-
-
-console.log("Hello javascript")

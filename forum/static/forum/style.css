@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+ /*Body*/
+
 html body {
     background-color: #e3e3e3;
     margin-top: 5rem;
@@ -24,6 +26,7 @@ html body {
     color: #fafafa;
   }
 
+  /*Navbar*/
 
   a.nav-item.nav-link.nav-color {
     color: #fafafa;
@@ -53,6 +56,7 @@ a.nav-item.nav-link.nav-color:hover {
       padding-top: 10px;
   }
 
+  /*Buttons*/
 
   .post-detail-button {
     color: rgb(71, 71, 71) !important;
@@ -76,6 +80,7 @@ a.nav-item.nav-link.nav-color:hover {
     margin-top: 10px !important;
   }
 
+  /*Article*/
 
   .article-title {
     color: rgb(71, 71, 71);
@@ -113,6 +118,8 @@ a.nav-item.nav-link.nav-color:hover {
     height: 25px;
     vertical-align: middle;
   }
+
+  /*Account*/
   
   .account-img {
     height: 125px;

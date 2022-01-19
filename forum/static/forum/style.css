@@ -55,6 +55,17 @@ a.nav-item.nav-link.nav-color:hover {
     font-family: "Roboto", sans-serif;
   }
 
+  .post-detail-button {
+    color: rgb(71, 71, 71) !important;
+    border: none !important;
+    font-weight: 450 !important;
+    font-family: "Roboto", sans-serif !important;
+  }
+
+  .post-detail-button:hover {
+    color: #c75b14 !important;
+  }
+
   .sign-up-button button:hover {
     background-color: #c75b14;
     border-color: #c75b14;

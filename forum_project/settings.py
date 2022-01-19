@@ -34,7 +34,7 @@ ALLOWED_HOSTS = ['football-opinions.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'forum.apps.ForumConfig',
+    # 'forum.apps.ForumConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
     'django.contrib.admin',
@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'forum',
 ]
 
 MIDDLEWARE = [

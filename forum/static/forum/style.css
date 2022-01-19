@@ -72,6 +72,10 @@ a.nav-item.nav-link.nav-color:hover {
     border-color: #c75b14;
   }
 
+  .send-message {
+    margin-top: 10px !important;
+  }
+
 
   .article-title {
     color: rgb(71, 71, 71);

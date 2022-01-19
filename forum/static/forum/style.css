@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 html body {
-    background-color: #cecece;
+    background-color: #e3e3e3;
     margin-top: 5rem;
     font-family: "Roboto", sans-serif;
   }
@@ -53,16 +53,11 @@ a.nav-item.nav-link.nav-color:hover {
       padding-top: 10px;
   }
 
-  .sign-up-button button {
-    color: rgb(71, 71, 71);
-    border-color: #c75b14;
-    font-weight: 500;
-    font-family: "Roboto", sans-serif;
-  }
 
   .post-detail-button {
     color: rgb(71, 71, 71) !important;
     border: none !important;
+    text-decoration: none !important;
     font-weight: 450 !important;
     font-family: "Roboto", sans-serif !important;
   }
@@ -77,17 +72,6 @@ a.nav-item.nav-link.nav-color:hover {
     border-color: #c75b14;
   }
 
-  .sign-in-button a {
-    color: rgb(71, 71, 71);
-    font-weight: 500;
-    font-family: "Roboto", sans-serif;
-  }
-  
-
-  .sign-in-button a:hover {
-    color: #c75b14;
-    text-decoration: none;
-  }
 
   .article-title {
     color: rgb(71, 71, 71);

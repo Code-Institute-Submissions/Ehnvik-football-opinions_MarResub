@@ -68,5 +68,5 @@ class PostDeleteView(LoginRequiredMixin, UserPassesTestMixin, DeleteView):
         return False
 
 
-def about(request):
-    return render(request, 'forum/about.html', {'title': 'About'})
+def support(request):
+    return render(request, 'forum/support.html', {'title': 'Support'})

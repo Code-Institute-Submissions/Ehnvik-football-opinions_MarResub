@@ -8,5 +8,9 @@ Gustav Ehnvik
 credits:
 
 Code institute
+
 Corey Shafer on Youtube
+
 stackoverflow.com
+
+Tutor Support

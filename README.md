@@ -7,9 +7,12 @@ Football Opinions is an online discussion forum about Football. People can here 
 https://football-opinions.herokuapp.com/
 
 ## **Project Goals**
+The main goal for Football Opinions is to provide a meeting place for people around the world to discuss football. The user is able to create a personal profile with a personal username. The user is also able to customise the profile by choosing a personal profile image. 
 
+The main target audience for the website is football fans in all ages. The website target both men and women. What they all should have in common is that they all like football.
 
 ## **User Stories**
+
 ### **Site Users Goal:**
 - As a Site User I want to be able to register an account so I can make a post
 - As a Site User I want to able to make a post so that I can be part of the discussion

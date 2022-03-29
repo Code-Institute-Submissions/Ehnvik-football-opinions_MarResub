@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /password-reset/
+Sitemap: https://football-opinions.herokuapp.com/sitemap.xml

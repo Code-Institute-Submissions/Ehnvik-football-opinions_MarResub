@@ -121,6 +121,90 @@ The main target audience for the website is football fans in all ages. The websi
 
 ![Logout Page](https://user-images.githubusercontent.com/87748379/160936135-a92eb6d0-cf24-4b44-b5fd-2bda85edc0d8.png)
 
+### **Admin Page**
+- The site owner of the website gets access to the administration page.
+- The site owner are able to edit or delete users on the website.
+- The site owner are able to edit or delete posts on the website.
+
+![Admin Page](https://user-images.githubusercontent.com/87748379/160938110-90dc390e-14c3-44cd-ad63-793f87e2aad2.png)
+
+## **Test**
+
+- I confirm that this website works on different browsers: Firefox, Chrome and Safari.
+- I confirm that the text-information on the website has an readable font and color.
+- I confirm that this website is responsive and works on all standard screen sizes using the devtools device toolbar.
+- I confirm that form requires entries in every field and that the send button works.
+- I confirm that all the navigation links that connect the different pages on the website works.
+
+### **Testing**
+
+I have tested manually that the following functionality works:
+
+**That all links work properly**
+
+![Main Page](https://user-images.githubusercontent.com/87748379/160939597-5bfae284-f7cb-4c0d-b115-dd354b831e4c.png)
+
+**That the support form works**
+
+![Testing Support Function](https://user-images.githubusercontent.com/87748379/160939965-5f23f96e-b211-4af4-b99d-ecb09d2d6dfe.png)
+
+![Support Function Email Received](https://user-images.githubusercontent.com/87748379/160939995-f12ed631-4cac-44eb-9e61-648858c0a93c.png)
+
+
+**That the update post function works**
+
+![Update Post](https://user-images.githubusercontent.com/87748379/160940358-06e12aa9-6619-42f2-9c9d-c5a3096254ee.png)
+
+**That the delete post function works**
+
+![Delete Post](https://user-images.githubusercontent.com/87748379/160940429-89e57f75-9e5c-483a-8f53-cc0d57160ec8.png)
+
+**That the send post function works**
+
+![Create Post](https://user-images.githubusercontent.com/87748379/160940846-b31d144d-9ede-44a1-a77b-215e82101612.png)
+
+**That the user posts summary works**
+
+![User Post Summary](https://user-images.githubusercontent.com/87748379/160941398-9fa6e055-e1f8-4169-8b78-137dd0f73263.png)
+
+**That create profile function works**
+
+![Register Account](https://user-images.githubusercontent.com/87748379/160941064-4c27f391-1b14-453c-8f47-d4e1a74b1707.png)
+
+![Register Account Complete](https://user-images.githubusercontent.com/87748379/160941102-c3d289fd-e40f-4c04-b715-0b85b672ef70.png)
+
+**That login function works**
+
+![Log In](https://user-images.githubusercontent.com/87748379/160941512-30a64df9-2d39-4b72-85e6-3e3ee8781615.png)
+
+**That reset password function works**
+
+![Reset Password](https://user-images.githubusercontent.com/87748379/160941653-de68dd17-865a-4f39-8a65-7c5b67912630.png)
+
+![Reset Password Sent](https://user-images.githubusercontent.com/87748379/160941658-d0856cb2-598a-4c6f-a468-d20cc4293db6.png)
+
+![Received Reset Password Email](https://user-images.githubusercontent.com/87748379/160941677-22682769-ebf7-444e-831c-7d089067774d.png)
+
+![New Password Complete](https://user-images.githubusercontent.com/87748379/160941693-8d19f2e8-e367-4114-98f3-4f9e8771db0f.png)
+
+**That update profile function works**
+
+![Update Profile](https://user-images.githubusercontent.com/87748379/160941885-828d4526-e9dc-48ce-8ed1-0c70574da0dd.png)
+
+
+**That admin are able to update and delete users and posts**
+
+![Admin Page](https://user-images.githubusercontent.com/87748379/160942103-aabe8918-2a45-463c-912f-dcd12de57f1c.png)
+
+
+
+
+
+
+
+
+
+
 
 
 

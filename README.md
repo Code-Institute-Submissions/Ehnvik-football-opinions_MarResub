@@ -90,7 +90,12 @@ The main target audience for the website is football fans in all ages. The websi
 
 ![Login Page](https://user-images.githubusercontent.com/87748379/160932416-33d29090-e85b-4ac8-8cc5-e5342d381a3d.png)
 
+### **New Post Page**
 
+- The New Post Page consist of a information text, two boxes and a send button. 
+- The top box is the title of the post and second box the content of the post. Both boxes are required to for the user to fill in before sending the post.
+
+![New Post Page](https://user-images.githubusercontent.com/87748379/160933308-5609742c-21d6-4631-90aa-930af576d0e1.png)
 
 
 credits:

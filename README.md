@@ -196,7 +196,29 @@ I have tested manually that the following functionality works:
 
 ![Admin Page](https://user-images.githubusercontent.com/87748379/160942103-aabe8918-2a45-463c-912f-dcd12de57f1c.png)
 
+## **Validation Testing**
 
+### **I have validated the following languages:**
+
+- CSS = Validated with no errors.
+- HTML = Validated with no errors and three minor warnings.
+- Python = Validated with no errors except for line to long errors.
+- Javascript = Validated with two errors. Code used from EmailJS for email function on support page.
+
+![CSS Validator](https://user-images.githubusercontent.com/87748379/160942617-a0c8ae4c-5dda-4fc4-8761-afac8a5dc8d2.png)
+
+![HTML Validator](https://user-images.githubusercontent.com/87748379/160942694-9e0d70b8-3d22-4ac9-b749-2850ac9e97e8.png)
+
+![Python Validator](https://user-images.githubusercontent.com/87748379/160942659-3b8c421f-7109-4a05-b22c-5bb96d9d481c.png)
+
+![Javascript Validator](https://user-images.githubusercontent.com/87748379/160942712-d34ee365-fb18-495d-9a22-de9b3415bfd5.png)
+
+
+### **Lighthouse Testing**
+
+![Lighthouse](https://user-images.githubusercontent.com/87748379/160943268-dae09601-7258-4e5f-a88e-9238b1fbf307.png)
+
+## **Deployment**
 
 
 

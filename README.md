@@ -220,6 +220,38 @@ I have tested manually that the following functionality works:
 
 ## **Deployment**
 
+1. Created the app using a unique name on Heroku.
+
+2. Went to the Resources tab in Heroku and searched for Heroku Postgres in the 'Add-Ons' section.
+
+3. Selected the free Hobby level.
+
+4. Updated the env.py file within my local workspace with the DATABASE_URL details, and the settings.py to connect to the database using the dj_database_url package.
+
+5. Migrated the files and pushed them to github and then to Heroku, but without the static files.
+
+6. Went to the Settings tab in Heroku and clicked on the Reveal Config Vars button
+
+7. Copied and pasted the env.py default variable into Heroku's Config Vars settings.
+
+8. Went to AWS and logged in to my account.
+
+9. Created a new bucket on AWS with all the necessary settings.
+
+10. Downloaded the secret AWS and paste it in to Heroku Config Vars.
+
+11. Deleted the DISABLE_COLLECTSTATIC=1 variable in Heroku.
+
+12. Added following code into Settings.py:
+
+![Settings Image](https://user-images.githubusercontent.com/87748379/160944321-18c955a8-8430-40d8-9cd7-c0cd09962c3b.png)
+
+13. Push all the changes to Github/Heroku and all the static files will be uploaded to S3 bucket.
+
+14. Create a Media Folder in AWS.
+
+15. Upload all the images to the folder.
+
 
 
 

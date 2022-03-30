@@ -106,6 +106,14 @@ The main target audience for the website is football fans in all ages. The websi
 
 ![Profile Page](https://user-images.githubusercontent.com/87748379/160934608-46cbd317-7e91-4540-8a45-15d4eef1cc13.png)
 
+### **Logged Out Page**
+
+- The user is logged out instantly when pressing the Logout button.
+- The user receive information that they are no longer logged in to their profile.
+- The user gets the opportunity to login again by clicking on the "Log in again" link.
+
+![Logout Page](https://user-images.githubusercontent.com/87748379/160936135-a92eb6d0-cf24-4b44-b5fd-2bda85edc0d8.png)
+
 
 credits:
 

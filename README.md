@@ -33,6 +33,13 @@ The main target audience for the website is football fans in all ages. The websi
 - As a Site Owner I want to be able to receive questions from the users if they have any problems on the website
 - As a Site Owner I want to be able to update other users username so I can change them if the use inappropriate usernames
 
+## **UX**
+- All the important navigation links are located on top on every page
+- All posts have their dates when they where sent.
+- The latest sent post is always displayed on top of the page.
+- The user are able to reset forgotten password.
+- By clicking on a users username you get a summary of all that users posts.
+- The user are able to contact the site owner on the support page.
 
 ## **Features**
 
@@ -113,6 +120,8 @@ The main target audience for the website is football fans in all ages. The websi
 - The user gets the opportunity to login again by clicking on the "Log in again" link.
 
 ![Logout Page](https://user-images.githubusercontent.com/87748379/160936135-a92eb6d0-cf24-4b44-b5fd-2bda85edc0d8.png)
+
+
 
 
 credits:

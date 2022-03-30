@@ -53,6 +53,7 @@ The main target audience for the website is football fans in all ages. The websi
 
 
 ### **Home Page**
+
   - The Home page is the core of the website. It is here where the users can interact with one another. 
   - All the posts that the users creates are displayed here.
   - The background on the page is in a very light grey color and the posts in front of the background are in a clear white color.
@@ -61,6 +62,24 @@ The main target audience for the website is football fans in all ages. The websi
   - If you click on the username of a user. Then you get a summary of all that persons posts.
 
   ![Main Page](https://user-images.githubusercontent.com/87748379/160926776-d26f6dac-d6f0-483d-b665-be73fc5cf043.png)
+
+### **Support Page**
+
+- The Support link is located next to the Home link. 
+- The user can ask the site owner for help on the support page. If they encounter problems on the website or with their account. Or just have general questions about the website.
+- To ask the question the user have to fill in the contact form on the Support page. The contact form consists of three boxes. Name, Email and a text box.
+- You send the message by pressing the send button. The Site Owner will then contact the user on the email address that the user registered.
+
+![Support Page](https://user-images.githubusercontent.com/87748379/160929180-0111f85b-6f9a-4852-a284-6bba0097ac98.png)
+
+
+### **Register Page**
+
+- It easy very easy for the user to register an account on Football Opinions. The steps to register a new account is to choose a username, fill in your email address, choose a password and press the button Sign Up. 
+- On the bottom of the page is a link with a information text that tells the user that they can login to their account if they already have a account.
+- The user have to confirm their password by typing it down twice before they are able to register an account.
+
+![Register Account Page](https://user-images.githubusercontent.com/87748379/160930597-544affc4-c169-4520-9cba-b71a847dffc5.png)
 
 
 

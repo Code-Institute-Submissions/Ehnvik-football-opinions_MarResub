@@ -60,7 +60,7 @@ The main target audience for the website is football fans in all ages. The websi
   - The title of the post and username turns into the color orange when the user hover their mouse over them. 
   - If you click on the username of a user. Then you get a summary of all that persons posts.
 
-  ![Home Page](https://user-images.githubusercontent.com/87748379/131390905-bd5f19af-5b65-482d-9722-09429fb33036.JPG)
+  ![Main Page](https://user-images.githubusercontent.com/87748379/160926776-d26f6dac-d6f0-483d-b665-be73fc5cf043.png)
 
 
 

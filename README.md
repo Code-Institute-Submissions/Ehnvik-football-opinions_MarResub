@@ -253,21 +253,18 @@ I have tested manually that the following functionality works:
 15. Upload all the images to the folder.
 
 
+## **Credit:**
 
+ - Code institute
 
+ - Corey Shafer on Youtube
 
+ - stackoverflow.com
 
+ - Tutor Support
 
+ - Orange football image from http://www.clker.com/
 
+ - Google fonts
 
-
-
-credits:
-
-Code institute
-
-Corey Shafer on Youtube
-
-stackoverflow.com
-
-Tutor Support
+ - EmailJS

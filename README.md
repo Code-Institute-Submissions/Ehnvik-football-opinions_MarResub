@@ -81,6 +81,14 @@ The main target audience for the website is football fans in all ages. The websi
 
 ![Register Account Page](https://user-images.githubusercontent.com/87748379/160930597-544affc4-c169-4520-9cba-b71a847dffc5.png)
 
+### **Login Page**
+
+- If the user already have an account on Football Opinions, then they can use their account information to login to their profile. 
+- To login to your account you fill in your username and your chosen password.
+- If the information don't match the registered information in the database, then the user will be denied access to their account.
+- A red information box will pop up and give the user instruction what login information the website wants. 
+
+![Login Page](https://user-images.githubusercontent.com/87748379/160932416-33d29090-e85b-4ac8-8cc5-e5342d381a3d.png)
 
 
 

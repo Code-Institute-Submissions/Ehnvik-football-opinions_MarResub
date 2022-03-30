@@ -87,6 +87,7 @@ The main target audience for the website is football fans in all ages. The websi
 - To login to your account you fill in your username and your chosen password.
 - If the information don't match the registered information in the database, then the user will be denied access to their account.
 - A red information box will pop up and give the user instruction what login information the website wants. 
+- The user can reset the password by pressing the "Forgot Password" link. 
 
 ![Login Page](https://user-images.githubusercontent.com/87748379/160932416-33d29090-e85b-4ac8-8cc5-e5342d381a3d.png)
 
@@ -96,6 +97,14 @@ The main target audience for the website is football fans in all ages. The websi
 - The top box is the title of the post and second box the content of the post. Both boxes are required to for the user to fill in before sending the post.
 
 ![New Post Page](https://user-images.githubusercontent.com/87748379/160933308-5609742c-21d6-4631-90aa-930af576d0e1.png)
+
+### **Profile Page**
+
+- The Profile page is where the user can find their personal information on the website.
+- The user can customize their profile from here by changing their username or profile picture. 
+- The user can also update their email address from here.
+
+![Profile Page](https://user-images.githubusercontent.com/87748379/160934608-46cbd317-7e91-4540-8a45-15d4eef1cc13.png)
 
 
 credits:
